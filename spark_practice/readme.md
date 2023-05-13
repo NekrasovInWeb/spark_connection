@@ -8,4 +8,5 @@ If you want to see the results of the ETL-process, look in the /results folder w
 
 Also you can check my point of view for the PySpark most important API function list.
 
-![PySpark most important API func](spark_practice/PySpark most important API func.jpg)
+
+![PySpark most important API func](https://github.com/NekrasovInWeb/spark_connection/assets/106546702/827c3327-35fe-4427-98f5-846ba67d584f)
